@@ -20,5 +20,7 @@ The changes, additions, and subtractions are shown in green and red. 拉起请�
 As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished. 确认修改内容后就能够开启一个拉起请求动作并开始一次讨论。
 By using GitHub’s @mention system in your pull request message, you can ask for feedback from specific people or teams. 在拉起请求动作相应的信息中，可以使用@功能来提醒特定的人或团队给自己反馈。
 
-6. 非主分支向主分支master发出上行的拉起请求后，主分支确认合并后会显示**删除**该非主分支；而当非主分支向主分支发起的拉起请求是下行时，即主分支是内容提供方，非主分支本身等待被更新，此时主分支确认后是非主分支被主分支的内容合并，主分支不发生任何变化，非主分支会显示**恢复**。
-
+6. 非主分支向主分支master发出上行的拉起请求后，主分支确认合并后会显示**删除**该非主分支；
+![删除分支](https://github.com/Edgar413/Hello_world/blob/master/Merge%20pull%20request_Delete.png)
+而当非主分支向主分支发起的拉起请求是下行时，即主分支是内容提供方，非主分支本身等待被更新，此时主分支确认后是非主分支被主分支的内容合并，主分支不发生任何变化，非主分支会显示**恢复**。
+![恢复分支](https://github.com/Edgar413/Hello_world/blob/master/Merge%20pull%20request_Revert.png)
