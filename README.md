@@ -12,3 +12,5 @@ I`m a student to study ocean acoustics in Beijing.
 
 3. A new branch called feature (because we’re doing ‘feature work’ on this branch). The journey that feature takes before it’s merged into master.
 ![GitHub branch diagram](https://guides.github.com/activities/hello-world/branching.png)
+
+4. On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why. 保存修改内容被称为**交付**。Commit changes 中填写的是描述修改内容及其原因的交付信息。
